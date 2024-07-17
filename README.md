@@ -1,6 +1,6 @@
 # Toy_task
-
-For Model : "train_models/checkpoint.pth"
+For AP Values check the Before and After train AP_Values image.
+For Model : go to drive and find "train_models/checkpoint.pth"
 
 For visualization i have modified the main.py such that now after evaluation it draw the bounding boxes on the image and store them under the "visual" folder.
 
